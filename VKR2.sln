@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VKR2.Domain", "VKR2.Domain\VKR2.Domain.csproj", "{CDDC3A2C-B1CA-4119-8B2C-A78772BBD576}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VKR2.DAL", "VKR2.DAL\VKR2.DAL.csproj", "{0536BB70-35A9-49E8-A9B3-66454A7567AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDDC3A2C-B1CA-4119-8B2C-A78772BBD576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDDC3A2C-B1CA-4119-8B2C-A78772BBD576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDDC3A2C-B1CA-4119-8B2C-A78772BBD576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDDC3A2C-B1CA-4119-8B2C-A78772BBD576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0536BB70-35A9-49E8-A9B3-66454A7567AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0536BB70-35A9-49E8-A9B3-66454A7567AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0536BB70-35A9-49E8-A9B3-66454A7567AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0536BB70-35A9-49E8-A9B3-66454A7567AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E66B66FD-837F-47EA-B6FB-B87D9054D73C}
+	EndGlobalSection
+EndGlobal
